@@ -1,5 +1,5 @@
 # Gestion-de-vende-
-avec boostrap and css and html5
+avec bootsrap and css and html5
 
 # lien 
 
